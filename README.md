@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![BlackYukiOS github stats](https://github-readme-stats.vercel.app/api?username=BlackYukiOS&show_icons=true)](https://github.com/BlackYukiOS)
 
 <!--
 **BlackYukiOS/BlackYukiOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
